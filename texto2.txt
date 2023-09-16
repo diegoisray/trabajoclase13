@@ -4,3 +4,4 @@ punto 6:Ambos participantes agregarán contenido a cualquiera de los archivos qu
 creado. A continuación, subirán los cambios al repositorio remoto.
 Luego, ambos participantes actualizarán su repositorio local y verificarán que los
 cambios del otro participante se hayan aplicado.
+desarollando el punto 9 deltrabajo en duo.
