@@ -1,3 +1,6 @@
 {
-    "nombre": "vale"
+    "nombre": "vale",
+    "apellido": "castillo",
+    "provincia":"Buenos Aires",
+    "localidad": "San Miguel"
 }
