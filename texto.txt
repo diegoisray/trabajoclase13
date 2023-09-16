@@ -1,2 +1,4 @@
 datos.txt
 agregando contenido al archivo texto.txt que me pide el item 6 del trabajo
+metodos mas usados en git:
+git add./ git comit/ git push/ git pull.
