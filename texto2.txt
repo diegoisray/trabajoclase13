@@ -1,1 +1,6 @@
 tp.
+desarrollo,
+punto 6:Ambos participantes agregarán contenido a cualquiera de los archivos que hayan
+creado. A continuación, subirán los cambios al repositorio remoto.
+Luego, ambos participantes actualizarán su repositorio local y verificarán que los
+cambios del otro participante se hayan aplicado.
