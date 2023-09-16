@@ -1,2 +1,4 @@
 datos.txt
 agregando contenido al archivo texto.txt que me pide el item 6 del trabajo
+
+agregando mas contenido al archivo para tener que solucionar el conflicto
