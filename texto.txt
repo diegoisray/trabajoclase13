@@ -1,1 +1,2 @@
 datos.txt
+agregando contenido al archivo texto.txt que me pide el item 6 del trabajo
